@@ -13,7 +13,6 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
     <p>Repository ini merupakan hasil latihan pada KSM Android : Web Basic 
         Pertemuan 6, yaitu membuat Form Registrasi.
     </p>
-
     <h3>Fitur</h3>
     <p>Dalam Form Registrasi ini, disajikan beberapa fitur inputan, diantaranya :</p>
     <dl>
@@ -39,7 +38,6 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
             <dd>Terdapat 2 buah button pada form ini, yaitu <b>Button Ulang (Reset)</b> dan 
             <b>Button Kirim (Submit)</b> yang dapat digunakan untuk mereset atau mengirimkan 
             semua data yang sudah diinputkan oleh user</dd><br>
-
         <h3>Tools yang digunakan</h3>
         <p>Dalam latihan ini menggunakan software <b>Visual Studi Code</b>, dengan
             bahasa pemrograman :
@@ -47,9 +45,7 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
             <li>HTML</li>
             <li>CSS</li>
         </ul></p>
-        
         <h5>( Sumber Code : Mentor Web Basic (Bang Jovanka) )</h5>
-
     </dl>
 </body>
 </html>
