@@ -20,23 +20,23 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
                 dengan tipe text.</dd>
         <dt>2. Username</dt>
             <dd>Field <b>Username</b> dapat digunakan untuk menginputkan Username dari user
-            dengan tipe text.</dd> <br>
+            dengan tipe text.</dd>
         <dt>3. Email</dt>
             <dd>Field <b>Email</b> dapat digunakan untuk menginputkan Username dari user
-            dengan tipe email.</dd> <br>
+            dengan tipe email.</dd>
         <dt>4. Jenis Kelamin</dt>
             <dd>Field <b>Jenis Kelamin</b> dapat digunakan untuk menginputkan Jenis Kelamin dari user
-            dengan tipe radio, sehingga user hanya perlu mengklik salah satunya saja.</dd><br>
+            dengan tipe radio, sehingga user hanya perlu mengklik salah satunya saja.</dd>
         <dt>5. Alamat</dt>
             <dd>Field <b>Alamat</b> dapat digunakan untuk menginputkan alamat dari user
-            dengan tipe text area, dengan ketentuan besar kolom maks.30 dan baris 10.</dd><br>
+            dengan tipe text area, dengan ketentuan besar kolom maks.30 dan baris 10.</dd>
         <dt>6. Checkbox</dt>
             <dd>Checkbox digunakan sebagai persetujuan dari user bahwa user akan
-                mengikuti peraturan yang ada, yang disajikan dengan tipe checkbox</dd><br>
+                mengikuti peraturan yang ada, yang disajikan dengan tipe checkbox</dd>
         <dt>7. Button</dt>
             <dd>Terdapat 2 buah button pada form ini, yaitu <b>Button Ulang (Reset)</b> dan 
             <b>Button Kirim (Submit)</b> yang dapat digunakan untuk mereset atau mengirimkan 
-            semua data yang sudah diinputkan oleh user</dd><br>
+            semua data yang sudah diinputkan oleh user</dd>
         <h3>Tools yang digunakan</h3>
         <p>Dalam latihan ini menggunakan software <b>Visual Studi Code</b>, dengan
             bahasa pemrograman :
