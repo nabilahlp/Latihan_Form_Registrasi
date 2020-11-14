@@ -5,7 +5,6 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Read Me</title>
 </head>
 <body>
     <h2 style="text-align: center;"><b>Form Registrasi Sederhana</b></h2>
@@ -18,7 +17,7 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
     <dl>
         <dt>1. Nama<dt>
             <dd>Field <b>Nama</b> dapat digunakan untuk menginputkan Nama dari user 
-                dengan tipe text.</dd> <br>
+                dengan tipe text.</dd>
         <dt>2. Username</dt>
             <dd>Field <b>Username</b> dapat digunakan untuk menginputkan Username dari user
             dengan tipe text.</dd> <br>
