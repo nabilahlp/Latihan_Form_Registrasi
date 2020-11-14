@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+input {
+    display: block;
+    margin-bottom: 25px;
+    margin-top: 5px;
+  
+}
+
+.input_user, textarea {
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    border: 2px solid;
+    outline: none;  
+}
+
+.gender_user, #input_checkbox {
+    display: inline;
+}
+
+#label_address {
+    display: block;
+    margin-bottom: 5px;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+.button {
+    display: inline;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+
+
+}
+
+#reset_button {
+    background-color: #f71919;
+    margin-right: 20px;
+}
+
+#submit_button {
+    background-color: #52da25;
+}
+
+#reset_button:hover {
+    background-color: #ca0909;
+}
+
+#submit_button:hover {
+    background-color:#41a71f;
+}
