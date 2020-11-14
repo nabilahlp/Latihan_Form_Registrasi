@@ -44,7 +44,7 @@ Latihan KSM Web Basic : Membuat Form Registrasi sederhana dengan HTML &amp; CSS
             <li>HTML</li>
             <li>CSS</li>
         </ul></p>
-        <h5>( Sumber Code : Mentor Web Basic (Bang Jovanka) )</h5>
+        <h5>(Sumber Code : Mentor Web Basic)</h5>
     </dl>
 </body>
 </html>
